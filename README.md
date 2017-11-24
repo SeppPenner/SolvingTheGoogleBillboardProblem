@@ -14,9 +14,9 @@ So first challenge: Where to get a ton of e digits? Our friends from the NASA he
 
 What to do now? So, the algorithm is quite simple: Take the first 10 digits from the e digits and check if they're prime. If yes: finished, if no: Take the next 10.
 
-So basically: 
+So basically: e =
 
-e = 2.718281828459045235360287471352662497757247093699959574966
+2.718281828459045235360287471352662497757247093699959574966
 967627724076630353547594571382178525166427427466391932003059
 921817413596629043572900334295260595630738132328627943490763
 233829880753195251019011573834187930702154089149934884167509
@@ -46,6 +46,7 @@ Last step: 			7427466391 --> Is it prime? --> Yes :D
 
 ## How to calculate primes efficiently?
 https://en.wikipedia.org/wiki/Primality_test
+
 What I used for this is the pseudo-code example here: https://en.wikipedia.org/wiki/Primality_test#Pseudocode
 
 
