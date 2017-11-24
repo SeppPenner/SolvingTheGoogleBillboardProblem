@@ -1,15 +1,15 @@
 # The Google billboard problem
 
-##What does this mean?
+## What does this mean?
 The task was to find the first 10 digit prime number in the euler number.
 
-##What was it used for?
+## What was it used for?
 Well, the sense of this was to attract people to a website of [Google](https://www.7427466391.com) to there solve another issue.
 If you managed to solve both of the puzzles, you were invited to a job interview at Google.
 Google simply wanted to find smart people, I guess.
 Actually, the [website](https://www.7427466391.com) is now no longer online.
 
-##The algorithm to solve the puzzle:
+## The algorithm to solve the puzzle:
 So first challenge: Where to get a ton of e digits? Our friends from the NASA help us out here: https://apod.nasa.gov/htmltest/gifcity/e.2mil (Thanks NASA for this :D)
 
 What to do now? So, the algorithm is quite simple: Take the first 10 digits from the e digits and check if they're prime. If yes: finished, if no: Take the next 10.
@@ -39,7 +39,7 @@ Next step: 			1828182845 --> Is it prime? --> No
 ...
 Last step: 			7427466391 --> Is it prime? --> Yes :D
 
-##How to calculate primes efficiently?
+## How to calculate primes efficiently?
 https://en.wikipedia.org/wiki/Primality_test
 What I used for this is the pseudo-code example here: https://en.wikipedia.org/wiki/Primality_test#Pseudocode
 
@@ -75,15 +75,25 @@ e = 2.718281828459045235360287471352662497757247093699959574966
 
 ## References
 http://franzhuber23.blogspot.de/2017/10/google-10-digit-prime-in-eulers-number.html
+
 http://explorepdx.com/firsten.html
+
 https://mkaz.tech/math/google-billboard-problems/
+
 https://apod.nasa.gov/htmltest/gifcity/e.2mil
+
 http://aleembawany.com/2004/07/20/google-billboard-puzzle-the-lazy-way/
+
 http://mathworld.wolfram.com/news/2004-10-13/google/
+
 https://www.seroundtable.com/archives/000644.html
+
 http://www.businessinsider.com/what-google-can-teach-us-about-solving-problems-2011-7?IR=T
+
 https://www.mkyong.com/java/how-to-determine-a-prime-number-in-java/
+
 https://en.wikipedia.org/wiki/Primality_test
+
 https://en.wikipedia.org/wiki/Primality_test#Pseudocode
 
 Change history
