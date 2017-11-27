@@ -78,6 +78,8 @@ What I used for this is the pseudo-code example here: https://en.wikipedia.org/w
 
 [C#](https://github.com/SeppPenner/TenDigitPrimeCalculatorCSharp)
 
+[Python](https://github.com/SeppPenner/TenDigitPrimeCalculatorPython)
+
 ## The result
 7427466391 or https://www.7427466391.com
 
