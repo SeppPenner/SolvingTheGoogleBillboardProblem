@@ -88,7 +88,7 @@ http://franzhuber23.blogspot.de/2017/10/google-10-digit-prime-in-eulers-number.h
 
 http://explorepdx.com/firsten.html
 
-https://mkaz.tech/math/google-billboard-problems/
+https://mkaz.blog/math/google-billboard-problems/
 
 https://apod.nasa.gov/htmltest/gifcity/e.2mil
 
