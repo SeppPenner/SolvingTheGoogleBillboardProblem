@@ -109,4 +109,4 @@ https://en.wikipedia.org/wiki/Primality_test#Pseudocode
 Change history
 --------------
 
-* **Version 1.0.0.0 (2017-11-24)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/SolvingTheGoogleBillboardProblem/blob/master/Changelog.md).
